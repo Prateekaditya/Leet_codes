@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prateekaditya/Leet_codes/tree/master/0042-trapping-rain-water) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Prateekaditya/Leet_codes/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prateekaditya/Leet_codes/tree/master/0042-trapping-rain-water) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Prateekaditya/Leet_codes/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Array
 |  |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prateekaditya/Leet_codes/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Prateekaditya/Leet_codes/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Prateekaditya/Leet_codes/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Prateekaditya/Leet_codes/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Prateekaditya/Leet_codes/tree/master/0217-contains-duplicate) |
@@ -29,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prateekaditya/Leet_codes/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Prateekaditya/Leet_codes/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
@@ -57,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Prateekaditya/Leet_codes/tree/master/0217-contains-duplicate) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Prateekaditya/Leet_codes/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
