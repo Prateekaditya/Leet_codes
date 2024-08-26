@@ -1,32 +1,14 @@
 class Solution {
     public int search(int[] nums, int target) {
-        int low = 0;
-        int high = nums.length - 1;
-
-        while (low <= high) {
-            // Finding the mid using floor division
-            int mid = low + (high - low) / 2;
-
-            // Target value is present at the middle of the array
-            if (nums[mid] == target) {
-                return mid;
-            }
-
-            // low to mid is sorted
-            if (nums[low] <= nums[mid]) {
-                if (nums[low] <= target && target < nums[mid]) {
-                    high = mid - 1;
-                } else {
-                    low = mid + 1;
-                }
-            }
-            // mid to high is sorted
-            else {
-                if (nums[mid] < target && target <= nums[high]) {
-                    low = mid + 1;
-                } else {
-                    high = mid - 1;
-                }
+        int matrix[][] = new int[nums.length][2];
+        for(int i=0; i< nums.length; i++){
+            matrix[i][0] = i;
+            matrix[i][1] = nums[i];
+        }
+        Arrays.sort(matrix, Comparator.comparingInt(o -> o[1]));
+        for(int i=0; i< matrix.length; i++){
+            if(matrix[i][1] == target){
+                return matrix[i][0];
             }
         }
         return -1;
