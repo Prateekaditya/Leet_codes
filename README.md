@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Prateekaditya/Leet_codes/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Prateekaditya/Leet_codes/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Prateekaditya/Leet_codes/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Prateekaditya/Leet_codes/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/Prateekaditya/Leet_codes/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Prateekaditya/Leet_codes/tree/master/0217-contains-duplicate) |
 ## Monotonic Stack
 |  |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Prateekaditya/Leet_codes/tree/master/1325-path-with-maximum-probability) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Prateekaditya/Leet_codes/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
