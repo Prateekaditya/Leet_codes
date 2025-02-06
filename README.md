@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Prateekaditya/Leet_codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0503-next-greater-element-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Prateekaditya/Leet_codes/tree/master/1325-path-with-maximum-probability) |
+| [1364-tuple-with-same-product](https://github.com/Prateekaditya/Leet_codes/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prateekaditya/Leet_codes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Prateekaditya/Leet_codes/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prateekaditya/Leet_codes/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Prateekaditya/Leet_codes/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Prateekaditya/Leet_codes/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Prateekaditya/Leet_codes/tree/master/0496-next-greater-element-i) |
+| [1364-tuple-with-same-product](https://github.com/Prateekaditya/Leet_codes/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prateekaditya/Leet_codes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Monotonic Stack
 |  |
@@ -129,5 +131,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Prateekaditya/Leet_codes/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prateekaditya/Leet_codes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
