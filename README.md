@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Prateekaditya/Leet_codes/tree/master/0496-next-greater-element-i) |
 | [1364-tuple-with-same-product](https://github.com/Prateekaditya/Leet_codes/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prateekaditya/Leet_codes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/Prateekaditya/Leet_codes/tree/master/2434-design-a-number-container-system) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Prateekaditya/Leet_codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Monotonic Stack
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Prateekaditya/Leet_codes/tree/master/0023-merge-k-sorted-lists) |
 | [1325-path-with-maximum-probability](https://github.com/Prateekaditya/Leet_codes/tree/master/1325-path-with-maximum-probability) |
+| [2434-design-a-number-container-system](https://github.com/Prateekaditya/Leet_codes/tree/master/2434-design-a-number-container-system) |
 ## Shortest Path
 |  |
 | ------- |
@@ -150,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Prateekaditya/Leet_codes/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Prateekaditya/Leet_codes/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Prateekaditya/Leet_codes/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
