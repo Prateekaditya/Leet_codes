@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prateekaditya/Leet_codes/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Prateekaditya/Leet_codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prateekaditya/Leet_codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3321-type-of-triangle](https://github.com/Prateekaditya/Leet_codes/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Prateekaditya/Leet_codes/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Prateekaditya/Leet_codes/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Prateekaditya/Leet_codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Prateekaditya/Leet_codes/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Prateekaditya/Leet_codes/tree/master/0066-plus-one) |
 | [2448-count-number-of-bad-pairs](https://github.com/Prateekaditya/Leet_codes/tree/master/2448-count-number-of-bad-pairs) |
+| [3321-type-of-triangle](https://github.com/Prateekaditya/Leet_codes/tree/master/3321-type-of-triangle) |
 ## Trie
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Prateekaditya/Leet_codes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Prateekaditya/Leet_codes/tree/master/0217-contains-duplicate) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prateekaditya/Leet_codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3321-type-of-triangle](https://github.com/Prateekaditya/Leet_codes/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
