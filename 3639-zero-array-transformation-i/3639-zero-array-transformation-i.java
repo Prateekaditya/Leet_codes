@@ -8,7 +8,7 @@ class Solution {
             sweep[l]+=1;
             sweep[r+1]-=1;
         }
-        for(int i=1;i<n;i++){
+        for(int i=1;i<=n;i++){
             sweep[i]+=sweep[i-1];
         }
         for(int i=0;i<n;i++)
