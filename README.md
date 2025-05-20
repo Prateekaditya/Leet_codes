@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Prateekaditya/Leet_codes/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Prateekaditya/Leet_codes/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Prateekaditya/Leet_codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3639-zero-array-transformation-i](https://github.com/Prateekaditya/Leet_codes/tree/master/3639-zero-array-transformation-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prateekaditya/Leet_codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [3639-zero-array-transformation-i](https://github.com/Prateekaditya/Leet_codes/tree/master/3639-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
