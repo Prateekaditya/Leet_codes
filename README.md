@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Prateekaditya/Leet_codes/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Prateekaditya/Leet_codes/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Prateekaditya/Leet_codes/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Prateekaditya/Leet_codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Prateekaditya/Leet_codes/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prateekaditya/Leet_codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Prateekaditya/Leet_codes/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Prateekaditya/Leet_codes/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Prateekaditya/Leet_codes/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Prateekaditya/Leet_codes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Prateekaditya/Leet_codes/tree/master/0217-contains-duplicate) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prateekaditya/Leet_codes/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Prateekaditya/Leet_codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Prateekaditya/Leet_codes/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prateekaditya/Leet_codes/tree/master/2132-convert-1d-array-into-2d-array) |
