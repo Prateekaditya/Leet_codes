@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/Prateekaditya/Leet_codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0503-next-greater-element-ii) |
+| [0797-rabbits-in-forest](https://github.com/Prateekaditya/Leet_codes/tree/master/0797-rabbits-in-forest) |
 | [1325-path-with-maximum-probability](https://github.com/Prateekaditya/Leet_codes/tree/master/1325-path-with-maximum-probability) |
 | [1364-tuple-with-same-product](https://github.com/Prateekaditya/Leet_codes/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prateekaditya/Leet_codes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Prateekaditya/Leet_codes/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Prateekaditya/Leet_codes/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Prateekaditya/Leet_codes/tree/master/0066-plus-one) |
+| [0797-rabbits-in-forest](https://github.com/Prateekaditya/Leet_codes/tree/master/0797-rabbits-in-forest) |
 | [2448-count-number-of-bad-pairs](https://github.com/Prateekaditya/Leet_codes/tree/master/2448-count-number-of-bad-pairs) |
 | [3321-type-of-triangle](https://github.com/Prateekaditya/Leet_codes/tree/master/3321-type-of-triangle) |
 ## Trie
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Prateekaditya/Leet_codes/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Prateekaditya/Leet_codes/tree/master/0496-next-greater-element-i) |
+| [0797-rabbits-in-forest](https://github.com/Prateekaditya/Leet_codes/tree/master/0797-rabbits-in-forest) |
 | [1364-tuple-with-same-product](https://github.com/Prateekaditya/Leet_codes/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prateekaditya/Leet_codes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/Prateekaditya/Leet_codes/tree/master/2434-design-a-number-container-system) |
@@ -208,4 +211,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prateekaditya/Leet_codes/tree/master/0011-container-with-most-water) |
+| [0797-rabbits-in-forest](https://github.com/Prateekaditya/Leet_codes/tree/master/0797-rabbits-in-forest) |
 <!---LeetCode Topics End-->
