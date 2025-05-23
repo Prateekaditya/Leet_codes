@@ -1,19 +1,13 @@
 class Solution {
-    public long maximumValueSum(int[] nums, int k, int[][] edges) {
-        long sum = 0;
-        List<Long> res = new ArrayList<>();
-        for (int x : nums) {
-            sum += x;
-            long y = x ^ k;
-            res.add(y - x);
+     public long maximumValueSum(int[] A, int k, int[][] edges) {
+        long res = 0;
+        int d = 1 << 30, c = 0;
+        for (int a : A) {
+            int b = a ^ k;
+            res += Math.max(a, b);
+            c ^= a < b ? 1 : 0;
+            d = Math.min(d, Math.abs(a - b));
         }
-        Collections.sort(res, Collections.reverseOrder());
-        for (int i = 0; i + 1 < res.size(); i += 2) {
-            if (res.get(i) + res.get(i + 1) <= 0) {
-                break;
-            }
-            sum += res.get(i) + res.get(i + 1);
-        }
-        return sum;
+        return res - d * c;
     }
 }
