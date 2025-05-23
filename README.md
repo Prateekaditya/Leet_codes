@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Prateekaditya/Leet_codes/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prateekaditya/Leet_codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Prateekaditya/Leet_codes/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Prateekaditya/Leet_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Stack
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prateekaditya/Leet_codes/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Prateekaditya/Leet_codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prateekaditya/Leet_codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Prateekaditya/Leet_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Prateekaditya/Leet_codes/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Prateekaditya/Leet_codes/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Prateekaditya/Leet_codes/tree/master/3429-special-array-i) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Prateekaditya/Leet_codes/tree/master/0242-valid-anagram) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prateekaditya/Leet_codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Prateekaditya/Leet_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Prateekaditya/Leet_codes/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/Prateekaditya/Leet_codes/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
@@ -217,11 +220,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prateekaditya/Leet_codes/tree/master/0011-container-with-most-water) |
 | [0797-rabbits-in-forest](https://github.com/Prateekaditya/Leet_codes/tree/master/0797-rabbits-in-forest) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Prateekaditya/Leet_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Prateekaditya/Leet_codes/tree/master/3647-zero-array-transformation-iii) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prateekaditya/Leet_codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Prateekaditya/Leet_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -230,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prateekaditya/Leet_codes/tree/master/0094-binary-tree-inorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Prateekaditya/Leet_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 <!---LeetCode Topics End-->
