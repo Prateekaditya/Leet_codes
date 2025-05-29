@@ -272,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Prateekaditya/Leet_codes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Prateekaditya/Leet_codes/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
