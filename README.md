@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Prateekaditya/Leet_codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0503-next-greater-element-ii) |
 | [0797-rabbits-in-forest](https://github.com/Prateekaditya/Leet_codes/tree/master/0797-rabbits-in-forest) |
+| [0945-snakes-and-ladders](https://github.com/Prateekaditya/Leet_codes/tree/master/0945-snakes-and-ladders) |
 | [1325-path-with-maximum-probability](https://github.com/Prateekaditya/Leet_codes/tree/master/1325-path-with-maximum-probability) |
 | [1364-tuple-with-same-product](https://github.com/Prateekaditya/Leet_codes/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prateekaditya/Leet_codes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Prateekaditya/Leet_codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Prateekaditya/Leet_codes/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0240-search-a-2d-matrix-ii) |
+| [0945-snakes-and-ladders](https://github.com/Prateekaditya/Leet_codes/tree/master/0945-snakes-and-ladders) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prateekaditya/Leet_codes/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/Prateekaditya/Leet_codes/tree/master/0945-snakes-and-ladders) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Prateekaditya/Leet_codes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Database
