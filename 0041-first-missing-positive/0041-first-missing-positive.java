@@ -7,9 +7,9 @@ class Solution {
                 visted[nums[i]-1]=true;
             }
         }
-        for(int i=0;i<n;i++){
-            if(!visted[i]){
-                return i+1;
+        for(int i=1;i<=n;i++){
+            if(!visted[i-1]){
+                return i;
             }
         }
         return n+1;
