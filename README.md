@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Prateekaditya/Leet_codes/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prateekaditya/Leet_codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/Prateekaditya/Leet_codes/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Prateekaditya/Leet_codes/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Prateekaditya/Leet_codes/tree/master/0152-maximum-product-subarray) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prateekaditya/Leet_codes/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/Prateekaditya/Leet_codes/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/Prateekaditya/Leet_codes/tree/master/0797-rabbits-in-forest) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Prateekaditya/Leet_codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Prateekaditya/Leet_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
