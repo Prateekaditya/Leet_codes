@@ -1,43 +1,35 @@
-import java.util.*;
 
 class Solution {
+    private int [] parent = new int[26];
     public String smallestEquivalentString(String s1, String s2, String baseStr) {
-        Map<Character, List<Character>> adj = new HashMap<>();
-        int n = s1.length();
-
-        // Build the adjacency list
-        for (int i = 0; i < n; i++) {
-            char u = s1.charAt(i);
-            char v = s2.charAt(i);
-
-            adj.computeIfAbsent(u, k -> new ArrayList<>()).add(v);
-            adj.computeIfAbsent(v, k -> new ArrayList<>()).add(u);
-        }
-
-        StringBuilder result = new StringBuilder();
-
-        for (char ch : baseStr.toCharArray()) {
-            boolean[] visited = new boolean[26];
-            char minChar = dfs(adj, ch, visited);
-            result.append(minChar);
-        }
-
-        return result.toString();
+       for(int i=0;i<26;i++){
+        parent[i]=i;
+       }
+       for(int i=0;i<s1.length();i++){
+        union(s1.charAt(i)-'a',s2.charAt(i)-'a');
+       }
+       StringBuilder res= new StringBuilder();
+       for(char c:baseStr.toCharArray()){
+        res.append((char)(find(c-'a')+'a'));
+       }
+       return res.toString();
     }
-
-    private char dfs(Map<Character, List<Character>> adj, char ch, boolean[] visited) {
-        visited[ch - 'a'] = true;
-        char minChar = ch;
-
-        for (char neighbor : adj.getOrDefault(ch, new ArrayList<>())) {
-            if (!visited[neighbor - 'a']) {
-                char candidate = dfs(adj, neighbor, visited);
-                if (candidate < minChar) {
-                    minChar = candidate;
-                }
+    private void union(int x,int y){
+        int rootX=find(x);
+        int rootY=find(y);
+        if(rootX!=rootY){
+            if(rootX<rootY){
+                parent[rootY]=rootX;
+            }
+            else{
+                parent[rootX]=rootY;
             }
         }
-
-        return minChar;
+    }
+    private int find(int x){
+        if(parent[x]!=x){
+            parent[x]=find(parent[x]);
+        }
+        return parent[x];
     }
 }
