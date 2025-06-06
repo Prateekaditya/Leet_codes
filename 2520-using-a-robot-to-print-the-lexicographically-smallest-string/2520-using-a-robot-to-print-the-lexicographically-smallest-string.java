@@ -1,42 +1,35 @@
-import java.util.*;
-
 class Solution {
     public String robotWithString(String s) {
-        Stack<Character> stack = new Stack<>();
-        int[] freq = new int[26];
+        int n = s.length();
         
-        // Count frequency of each character
-        for (char ch : s.toCharArray()) {
-            freq[ch - 'a']++;
+        // Step 1: Precompute minimum character from each position to end
+        char[] minSuffix = new char[n];
+        minSuffix[n-1] = s.charAt(n-1);
+        
+        for (int i = n-2; i >= 0; i--) {
+            minSuffix[i] = (char) Math.min(s.charAt(i), minSuffix[i+1]);
         }
         
-        StringBuilder t = new StringBuilder();
-
-        for (char ch : s.toCharArray()) {
-            stack.push(ch);
-            freq[ch - 'a']--;
-
-            // Check if we can pop the top of the stack
-            while (!stack.isEmpty() && stack.peek() <= smallestChar(freq)) {
-                t.append(stack.pop());
+        // Step 2: Process string using stack simulation
+        StringBuilder result = new StringBuilder();
+        Stack<Character> stack = new Stack<>();  // Robot's string 't'
+        int i = 0;  // Pointer for string 's'
+        
+        while (i < n || !stack.isEmpty()) {
+            // Write from stack if:
+            // 1. No more characters in s, OR
+            // 2. Top of stack <= minimum remaining character in s
+            while (!stack.isEmpty() && (i >= n || stack.peek() <= minSuffix[i])) {
+                result.append(stack.pop());
+            }
+            
+            // Take character from s to stack (if available)
+            if (i < n) {
+                stack.push(s.charAt(i));
+                i++;
             }
         }
-
-        // Append remaining characters from stack
-        while (!stack.isEmpty()) {
-            t.append(stack.pop());
-        }
-
-        return t.toString();
-    }
-
-    // Helper function to find the smallest character still available
-    private char smallestChar(int[] freq) {
-        for (int i = 0; i < 26; i++) {
-            if (freq[i] > 0) {
-                return (char) ('a' + i);
-            }
-        }
-        return 'a';
+        
+        return result.toString();
     }
 }
