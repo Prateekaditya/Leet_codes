@@ -1,26 +1,22 @@
-public class Solution 
-{
-    public List<Integer> lexicalOrder(int n) 
+class Solution {
+    public List<Integer> lexicalOrder(int n) {
+    List<Integer> al = new  ArrayList<>();
+    int curr = 1; 
+    for(int i=1; i<=n; i++)
     {
-        // Step 1: Create priority queue with custom comparator
-        PriorityQueue<Integer> pq = new PriorityQueue<>((a, b) -> String.valueOf(a).compareTo(String.valueOf(b)));
-
-        // Step 2: Insert numbers 1 to n using their string form for comparison
-        for (int i = 1; i <= n; i++) 
+      al.add(curr);
+      if(curr*10<=n)
+      curr = curr*10;
+      else
+      {
+        while(curr%10==9 || curr>=n)
         {
-            pq.offer(i);
-        }
+          curr = curr/10;   
+        } 
+        curr += 1;
+      }
+    } 
+    return al;
 
-        // Step 3: Prepare result list
-        List<Integer> result = new ArrayList<>();
-
-        // Step 4: Poll from priority queue to get lexicographically sorted numbers
-        while (!pq.isEmpty()) 
-        {
-            result.add(pq.poll());
-        }
-
-        // Step 5: Return the result
-        return result;
     }
 }
