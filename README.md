@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Prateekaditya/Leet_codes/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Prateekaditya/Leet_codes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Prateekaditya/Leet_codes/tree/master/0242-valid-anagram) |
+| [0812-rotate-string](https://github.com/Prateekaditya/Leet_codes/tree/master/0812-rotate-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Prateekaditya/Leet_codes/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Prateekaditya/Leet_codes/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prateekaditya/Leet_codes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prateekaditya/Leet_codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/Prateekaditya/Leet_codes/tree/master/0812-rotate-string) |
 ## Prefix Sum
 |  |
 | ------- |
