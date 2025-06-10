@@ -1,18 +1,21 @@
 class Solution {
     public int maxDifference(String s) {
-        int[] mpp = new int[26];
-        int maxi = 0, mini = s.length();
-        for (char c : s.toCharArray()) {
-            mpp[c - 'a']++;
+        int n =s.length();
+        HashMap<Character,Integer> map = new HashMap<>();
+        for(int i=0;i<n;i++){
+            char ch =s.charAt(i);
+            map.put(ch,map.getOrDefault(ch,0)+1);
         }
-        for (int i = 0; i < 26; i++) {
-            if (mpp[i] % 2 != 0) {
-                maxi = Math.max(maxi, mpp[i]);
+        int maxOdd=Integer.MIN_VALUE;
+        int minEven=Integer.MAX_VALUE;
+        for(Character k:map.keySet()){
+            if(map.get(k)%2==1){
+                maxOdd = Math.max(maxOdd,map.get(k));
             }
-            if (mpp[i] % 2 == 0 && mpp[i] > 0) {
-                mini = Math.min(mini, mpp[i]);
+            else{
+                minEven =Math.min(minEven,map.get(k));
             }
         }
-        return maxi - mini;
+        return (maxOdd-minEven);
     }
 }
