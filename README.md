@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0275-h-index-ii) |
 | [0496-next-greater-element-i](https://github.com/Prateekaditya/Leet_codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0503-next-greater-element-ii) |
+| [0792-binary-search](https://github.com/Prateekaditya/Leet_codes/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Prateekaditya/Leet_codes/tree/master/0797-rabbits-in-forest) |
 | [0945-snakes-and-ladders](https://github.com/Prateekaditya/Leet_codes/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0948-sort-an-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Prateekaditya/Leet_codes/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0275-h-index-ii) |
+| [0792-binary-search](https://github.com/Prateekaditya/Leet_codes/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
