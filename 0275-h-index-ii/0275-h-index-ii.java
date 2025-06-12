@@ -1,21 +1,17 @@
 class Solution {
     public int hIndex(int[] citations) {
-        int n=citations.length;
-        int [] freq=new int[n+1];
-        for(int i=0;i<n;i++){
-            if(citations[i]>n){
-                freq[n]+=1;
+       int n= citations.length;
+       int low=0;
+       int high=n;
+       while(low<high){
+        int mid =low+ (high-low)/2;
+            if(citations[mid]>=n-mid){
+                high=mid;
             }
             else{
-                freq[citations[i]]+=1;
+                low=mid+1;
             }
-        }
-        int idx=n;
-        int count = freq[n];
-        while(count<idx){
-            idx--;
-            count+=freq[idx];
-        }
-        return idx;
+       }
+       return n-low;
     }
 }
