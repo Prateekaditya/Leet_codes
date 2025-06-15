@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Prateekaditya/Leet_codes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Prateekaditya/Leet_codes/tree/master/0067-add-binary) |
 | [0797-rabbits-in-forest](https://github.com/Prateekaditya/Leet_codes/tree/master/0797-rabbits-in-forest) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Prateekaditya/Leet_codes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2383-add-two-integers](https://github.com/Prateekaditya/Leet_codes/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Prateekaditya/Leet_codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2556-convert-the-temperature](https://github.com/Prateekaditya/Leet_codes/tree/master/2556-convert-the-temperature) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Prateekaditya/Leet_codes/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Prateekaditya/Leet_codes/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/Prateekaditya/Leet_codes/tree/master/0797-rabbits-in-forest) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Prateekaditya/Leet_codes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Prateekaditya/Leet_codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Prateekaditya/Leet_codes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Prateekaditya/Leet_codes/tree/master/2704-maximum-difference-by-remapping-a-digit) |
