@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Prateekaditya/Leet_codes/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Prateekaditya/Leet_codes/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Prateekaditya/Leet_codes/tree/master/0260-single-number-iii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Prateekaditya/Leet_codes/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Prateekaditya/Leet_codes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Prateekaditya/Leet_codes/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Prateekaditya/Leet_codes/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Prateekaditya/Leet_codes/tree/master/0496-next-greater-element-i) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0219-contains-duplicate-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Bucket Sort
 |  |
