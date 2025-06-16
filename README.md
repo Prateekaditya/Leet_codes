@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Prateekaditya/Leet_codes/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Prateekaditya/Leet_codes/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Prateekaditya/Leet_codes/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0240-search-a-2d-matrix-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Prateekaditya/Leet_codes/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Prateekaditya/Leet_codes/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Prateekaditya/Leet_codes/tree/master/0344-reverse-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Prateekaditya/Leet_codes/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Math
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Prateekaditya/Leet_codes/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Prateekaditya/Leet_codes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Prateekaditya/Leet_codes/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0189-rotate-array) |
 | [0797-rabbits-in-forest](https://github.com/Prateekaditya/Leet_codes/tree/master/0797-rabbits-in-forest) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Prateekaditya/Leet_codes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2383-add-two-integers](https://github.com/Prateekaditya/Leet_codes/tree/master/2383-add-two-integers) |
