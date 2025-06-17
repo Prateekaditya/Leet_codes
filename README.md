@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Prateekaditya/Leet_codes/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Prateekaditya/Leet_codes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Prateekaditya/Leet_codes/tree/master/3321-type-of-triangle) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Prateekaditya/Leet_codes/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Trie
 |  |
 | ------- |
@@ -385,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/Prateekaditya/Leet_codes/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0948-sort-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Prateekaditya/Leet_codes/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
