@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Prateekaditya/Leet_codes/tree/master/0797-rabbits-in-forest) |
 | [0945-snakes-and-ladders](https://github.com/Prateekaditya/Leet_codes/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0948-sort-an-array) |
+| [1319-unique-number-of-occurrences](https://github.com/Prateekaditya/Leet_codes/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/Prateekaditya/Leet_codes/tree/master/1325-path-with-maximum-probability) |
 | [1364-tuple-with-same-product](https://github.com/Prateekaditya/Leet_codes/tree/master/1364-tuple-with-same-product) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Prateekaditya/Leet_codes/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Prateekaditya/Leet_codes/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Prateekaditya/Leet_codes/tree/master/0496-next-greater-element-i) |
 | [0797-rabbits-in-forest](https://github.com/Prateekaditya/Leet_codes/tree/master/0797-rabbits-in-forest) |
+| [1319-unique-number-of-occurrences](https://github.com/Prateekaditya/Leet_codes/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/Prateekaditya/Leet_codes/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prateekaditya/Leet_codes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Prateekaditya/Leet_codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
