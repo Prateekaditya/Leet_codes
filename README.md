@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0189-rotate-array) |
 | [0797-rabbits-in-forest](https://github.com/Prateekaditya/Leet_codes/tree/master/0797-rabbits-in-forest) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Prateekaditya/Leet_codes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Prateekaditya/Leet_codes/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2383-add-two-integers](https://github.com/Prateekaditya/Leet_codes/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Prateekaditya/Leet_codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2556-convert-the-temperature](https://github.com/Prateekaditya/Leet_codes/tree/master/2556-convert-the-temperature) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Prateekaditya/Leet_codes/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Prateekaditya/Leet_codes/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Union Find
