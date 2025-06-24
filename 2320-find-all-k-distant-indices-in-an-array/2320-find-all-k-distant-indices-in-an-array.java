@@ -6,7 +6,7 @@ class Solution {
         while(j<i-k || (j<n && nums[j]!=key)){
             j++;
         }
-        if(j<n && j<=i+k){
+        if(j<n && Math.abs(i-j)<=k){
             ans.add(i);
         }
        
