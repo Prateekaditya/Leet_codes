@@ -1,40 +1,29 @@
 class Solution {
     public int minimumDeletions(String word, int k) {
-        // Step 1: Count frequency of each character
-        int[] freq = new int[26];
-        for (char c : word.toCharArray()) {
-            freq[c - 'a']++;
+        int []freq = new int[26];
+        for(char c:word.toCharArray()){
+            freq[c-'a']++;
         }
-        
-        // Step 2: Collect all non-zero frequencies
-        List<Integer> frequencies = new ArrayList<>();
-        for (int f : freq) {
-            if (f > 0) {
+        List <Integer> frequencies= new ArrayList<>();
+        for(int f:freq){
+            if(f>0){
                 frequencies.add(f);
             }
         }
-        
-        // Step 3: Try every possible minimum frequency (L)
-        int minDeletions = Integer.MAX_VALUE;
-        
-        for (int L : frequencies) {
-            int deletions = 0;
-            
-            // Step 4: Calculate deletions for current L
-            for (int currentFreq : frequencies) {
-                if (currentFreq < L) {
-                    // Delete all occurrences of this character
-                    deletions += currentFreq;
-                } else if (currentFreq > L + k) {
-                    // Delete excess to bring it down to L + k
-                    deletions += currentFreq - (L + k);
+        int mindel=Integer.MAX_VALUE;
+        for(int L:frequencies){
+            int del=0;
+            for(int currentFreq : frequencies){
+                if(currentFreq<L){
+                    del+=currentFreq;
                 }
-                // If L <= currentFreq <= L + k, no deletion needed
+                else if(currentFreq>L+k){
+                    del += currentFreq -(L+k);
+                }
             }
-            
-            minDeletions = Math.min(minDeletions, deletions);
+        mindel =Math.min(del,mindel);
+
         }
-        
-        return minDeletions;
+        return mindel;
     }
 }
