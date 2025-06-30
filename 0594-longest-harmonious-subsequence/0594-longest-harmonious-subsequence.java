@@ -1,21 +1,17 @@
 public class Solution {
     public int findLHS(int[] nums) {
-        Map<Integer, Integer> frequencyMap = new HashMap<>();
-        
-        // Step 1: Count frequencies of each number
-        for (int num : nums) {
-            frequencyMap.put(num, frequencyMap.getOrDefault(num, 0) + 1);
+        Map<Integer, Integer> map = new HashMap<>();
+       
+       for(int num:nums){
+        map.put(num,map.getOrDefault(num,0)+1);
+       }
+       int maxL=0;
+       for(int k : map.keySet()){
+        if(map.containsKey(k+1)){
+            int cl = map.get(k)+map.get(k+1);
+            maxL = Math.max(cl,maxL);
         }
-        
-        int maxLength = 0;
-        
-        // Step 2: Check all possible (num, num+1) pairs
-        for (int num : frequencyMap.keySet()) {
-            if (frequencyMap.containsKey(num + 1)) {
-                int currentLength = frequencyMap.get(num) + frequencyMap.get(num + 1);
-                maxLength = Math.max(maxLength, currentLength);
-            }
-        }
-        return maxLength;
+       }
+       return maxL;
     }
 }
