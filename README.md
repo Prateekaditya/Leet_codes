@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Prateekaditya/Leet_codes/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prateekaditya/Leet_codes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Prateekaditya/Leet_codes/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Prateekaditya/Leet_codes/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prateekaditya/Leet_codes/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Prateekaditya/Leet_codes/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Prateekaditya/Leet_codes/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Prateekaditya/Leet_codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prateekaditya/Leet_codes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Prateekaditya/Leet_codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Prateekaditya/Leet_codes/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prateekaditya/Leet_codes/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Prateekaditya/Leet_codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2434-design-a-number-container-system](https://github.com/Prateekaditya/Leet_codes/tree/master/2434-design-a-number-container-system) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Prateekaditya/Leet_codes/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/Prateekaditya/Leet_codes/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
