@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prateekaditya/Leet_codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Prateekaditya/Leet_codes/tree/master/1646-kth-missing-positive-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Prateekaditya/Leet_codes/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1813-maximum-erasure-value](https://github.com/Prateekaditya/Leet_codes/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prateekaditya/Leet_codes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Prateekaditya/Leet_codes/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Prateekaditya/Leet_codes/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Prateekaditya/Leet_codes/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/Prateekaditya/Leet_codes/tree/master/1364-tuple-with-same-product) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Prateekaditya/Leet_codes/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/Prateekaditya/Leet_codes/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prateekaditya/Leet_codes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Prateekaditya/Leet_codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Prateekaditya/Leet_codes/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prateekaditya/Leet_codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prateekaditya/Leet_codes/tree/master/0594-longest-harmonious-subsequence) |
+| [1813-maximum-erasure-value](https://github.com/Prateekaditya/Leet_codes/tree/master/1813-maximum-erasure-value) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Bucket Sort
 |  |
