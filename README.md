@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prateekaditya/Leet_codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Prateekaditya/Leet_codes/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Prateekaditya/Leet_codes/tree/master/0435-non-overlapping-intervals) |
+| [1013-fibonacci-number](https://github.com/Prateekaditya/Leet_codes/tree/master/1013-fibonacci-number) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Prateekaditya/Leet_codes/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Prateekaditya/Leet_codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Prateekaditya/Leet_codes/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Prateekaditya/Leet_codes/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0189-rotate-array) |
 | [0797-rabbits-in-forest](https://github.com/Prateekaditya/Leet_codes/tree/master/0797-rabbits-in-forest) |
+| [1013-fibonacci-number](https://github.com/Prateekaditya/Leet_codes/tree/master/1013-fibonacci-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Prateekaditya/Leet_codes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Prateekaditya/Leet_codes/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2383-add-two-integers](https://github.com/Prateekaditya/Leet_codes/tree/master/2383-add-two-integers) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Prateekaditya/Leet_codes/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Prateekaditya/Leet_codes/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Prateekaditya/Leet_codes/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/Prateekaditya/Leet_codes/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Prateekaditya/Leet_codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Counting
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Prateekaditya/Leet_codes/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Prateekaditya/Leet_codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Prateekaditya/Leet_codes/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Prateekaditya/Leet_codes/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
