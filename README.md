@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Prateekaditya/Leet_codes/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Prateekaditya/Leet_codes/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0189-rotate-array) |
+| [0342-power-of-four](https://github.com/Prateekaditya/Leet_codes/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/Prateekaditya/Leet_codes/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/Prateekaditya/Leet_codes/tree/master/1013-fibonacci-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Prateekaditya/Leet_codes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Prateekaditya/Leet_codes/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Prateekaditya/Leet_codes/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Prateekaditya/Leet_codes/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/Prateekaditya/Leet_codes/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Prateekaditya/Leet_codes/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Prateekaditya/Leet_codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Prateekaditya/Leet_codes/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Prateekaditya/Leet_codes/tree/master/0260-single-number-iii) |
+| [0342-power-of-four](https://github.com/Prateekaditya/Leet_codes/tree/master/0342-power-of-four) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Prateekaditya/Leet_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Prateekaditya/Leet_codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
