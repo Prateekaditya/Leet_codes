@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Prateekaditya/Leet_codes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Prateekaditya/Leet_codes/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Prateekaditya/Leet_codes/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Prateekaditya/Leet_codes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0742-to-lower-case](https://github.com/Prateekaditya/Leet_codes/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Prateekaditya/Leet_codes/tree/master/0812-rotate-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Prateekaditya/Leet_codes/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Prateekaditya/Leet_codes/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Prateekaditya/Leet_codes/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Prateekaditya/Leet_codes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Prateekaditya/Leet_codes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prateekaditya/Leet_codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
