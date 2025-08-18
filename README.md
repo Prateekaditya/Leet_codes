@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Prateekaditya/Leet_codes/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Prateekaditya/Leet_codes/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Prateekaditya/Leet_codes/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/Prateekaditya/Leet_codes/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0275-h-index-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Prateekaditya/Leet_codes/tree/master/0349-intersection-of-two-arrays) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prateekaditya/Leet_codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Prateekaditya/Leet_codes/tree/master/0222-count-complete-tree-nodes) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Prateekaditya/Leet_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Prateekaditya/Leet_codes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -464,12 +466,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prateekaditya/Leet_codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Prateekaditya/Leet_codes/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Prateekaditya/Leet_codes/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Prateekaditya/Leet_codes/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Prateekaditya/Leet_codes/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/Prateekaditya/Leet_codes/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Prateekaditya/Leet_codes/tree/master/0342-power-of-four) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Prateekaditya/Leet_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
