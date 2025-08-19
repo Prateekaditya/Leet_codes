@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prateekaditya/Leet_codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/Prateekaditya/Leet_codes/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/Prateekaditya/Leet_codes/tree/master/0812-rotate-string) |
 ## Prefix Sum
 |  |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Prateekaditya/Leet_codes/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Prateekaditya/Leet_codes/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Prateekaditya/Leet_codes/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Prateekaditya/Leet_codes/tree/master/0572-subtree-of-another-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Prateekaditya/Leet_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Prateekaditya/Leet_codes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Prateekaditya/Leet_codes/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Prateekaditya/Leet_codes/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Prateekaditya/Leet_codes/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Prateekaditya/Leet_codes/tree/master/0572-subtree-of-another-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Prateekaditya/Leet_codes/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Prateekaditya/Leet_codes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Prateekaditya/Leet_codes/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Prateekaditya/Leet_codes/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Prateekaditya/Leet_codes/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Prateekaditya/Leet_codes/tree/master/0572-subtree-of-another-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -567,4 +571,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0215-kth-largest-element-in-an-array) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Prateekaditya/Leet_codes/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
