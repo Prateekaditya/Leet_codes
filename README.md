@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prateekaditya/Leet_codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Prateekaditya/Leet_codes/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prateekaditya/Leet_codes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Prateekaditya/Leet_codes/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Prateekaditya/Leet_codes/tree/master/0543-diameter-of-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Prateekaditya/Leet_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prateekaditya/Leet_codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Prateekaditya/Leet_codes/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prateekaditya/Leet_codes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Prateekaditya/Leet_codes/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Prateekaditya/Leet_codes/tree/master/0543-diameter-of-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Prateekaditya/Leet_codes/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prateekaditya/Leet_codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Prateekaditya/Leet_codes/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prateekaditya/Leet_codes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Prateekaditya/Leet_codes/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Prateekaditya/Leet_codes/tree/master/0543-diameter-of-binary-tree) |
 ## Bit Manipulation
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Prateekaditya/Leet_codes/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prateekaditya/Leet_codes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/Prateekaditya/Leet_codes/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Prateekaditya/Leet_codes/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Prateekaditya/Leet_codes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
