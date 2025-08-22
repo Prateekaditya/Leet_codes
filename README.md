@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prateekaditya/Leet_codes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Prateekaditya/Leet_codes/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Prateekaditya/Leet_codes/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2058-concatenation-of-array](https://github.com/Prateekaditya/Leet_codes/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prateekaditya/Leet_codes/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Prateekaditya/Leet_codes/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Prateekaditya/Leet_codes/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Prateekaditya/Leet_codes/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Prateekaditya/Leet_codes/tree/master/0067-add-binary) |
+| [2058-concatenation-of-array](https://github.com/Prateekaditya/Leet_codes/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prateekaditya/Leet_codes/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Prateekaditya/Leet_codes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/Prateekaditya/Leet_codes/tree/master/2479-meeting-rooms-iii) |
