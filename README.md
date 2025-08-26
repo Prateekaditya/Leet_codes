@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Prateekaditya/Leet_codes/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Prateekaditya/Leet_codes/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Prateekaditya/Leet_codes/tree/master/0183-customers-who-never-order) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Prateekaditya/Leet_codes/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Enumeration
 |  |
 | ------- |
