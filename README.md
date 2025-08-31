@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Prateekaditya/Leet_codes/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prateekaditya/Leet_codes/tree/master/0594-longest-harmonious-subsequence) |
+| [0724-find-pivot-index](https://github.com/Prateekaditya/Leet_codes/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Prateekaditya/Leet_codes/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Prateekaditya/Leet_codes/tree/master/0797-rabbits-in-forest) |
 | [0945-snakes-and-ladders](https://github.com/Prateekaditya/Leet_codes/tree/master/0945-snakes-and-ladders) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Prateekaditya/Leet_codes/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Prateekaditya/Leet_codes/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Prateekaditya/Leet_codes/tree/master/1603-running-sum-of-1d-array) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Prateekaditya/Leet_codes/tree/master/3639-zero-array-transformation-i) |
