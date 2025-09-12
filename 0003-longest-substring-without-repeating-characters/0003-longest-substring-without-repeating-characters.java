@@ -3,7 +3,7 @@ class Solution {
         if(s.length()==0 || s.length()==1){
             return s.length();
         }
-        int res=0;
+        int cnt=0;
         int left=0;
         int right=0;
         boolean []vis=new boolean[128];
@@ -13,9 +13,9 @@ class Solution {
                 left++;
             }
             vis[s.charAt(right)]=true;
-            res=Math.max(res,(right-left+1));
+            cnt=Math.max(cnt,(right-left)+1);
             right++;
         }
-        return res;
+        return cnt++;
     }
 }
