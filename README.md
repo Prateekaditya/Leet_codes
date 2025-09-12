@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Prateekaditya/Leet_codes/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Prateekaditya/Leet_codes/tree/master/0812-rotate-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Prateekaditya/Leet_codes/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Prateekaditya/Leet_codes/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Prateekaditya/Leet_codes/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Prateekaditya/Leet_codes/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Prateekaditya/Leet_codes/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Prateekaditya/Leet_codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Prateekaditya/Leet_codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0503-next-greater-element-ii) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Prateekaditya/Leet_codes/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Prateekaditya/Leet_codes/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Prateekaditya/Leet_codes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Prateekaditya/Leet_codes/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
