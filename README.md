@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Prateekaditya/Leet_codes/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Prateekaditya/Leet_codes/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Prateekaditya/Leet_codes/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prateekaditya/Leet_codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Prateekaditya/Leet_codes/tree/master/0152-maximum-product-subarray) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Prateekaditya/Leet_codes/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Prateekaditya/Leet_codes/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Prateekaditya/Leet_codes/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Prateekaditya/Leet_codes/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Prateekaditya/Leet_codes/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Prateekaditya/Leet_codes/tree/master/0054-spiral-matrix) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prateekaditya/Leet_codes/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/Prateekaditya/Leet_codes/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Prateekaditya/Leet_codes/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Prateekaditya/Leet_codes/tree/master/0435-non-overlapping-intervals) |
