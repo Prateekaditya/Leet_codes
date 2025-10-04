@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Prateekaditya/Leet_codes/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/Prateekaditya/Leet_codes/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/Prateekaditya/Leet_codes/tree/master/1013-fibonacci-number) |
+| [1070-convert-to-base-2](https://github.com/Prateekaditya/Leet_codes/tree/master/1070-convert-to-base-2) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Prateekaditya/Leet_codes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Prateekaditya/Leet_codes/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2383-add-two-integers](https://github.com/Prateekaditya/Leet_codes/tree/master/2383-add-two-integers) |
