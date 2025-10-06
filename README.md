@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prateekaditya/Leet_codes/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prateekaditya/Leet_codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Prateekaditya/Leet_codes/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Prateekaditya/Leet_codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0503-next-greater-element-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prateekaditya/Leet_codes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Prateekaditya/Leet_codes/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prateekaditya/Leet_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Prateekaditya/Leet_codes/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Prateekaditya/Leet_codes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prateekaditya/Leet_codes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Prateekaditya/Leet_codes/tree/master/0349-intersection-of-two-arrays) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Prateekaditya/Leet_codes/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Prateekaditya/Leet_codes/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Prateekaditya/Leet_codes/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Prateekaditya/Leet_codes/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Prateekaditya/Leet_codes/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Prateekaditya/Leet_codes/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Prateekaditya/Leet_codes/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Prateekaditya/Leet_codes/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Prateekaditya/Leet_codes/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Prateekaditya/Leet_codes/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Prateekaditya/Leet_codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
