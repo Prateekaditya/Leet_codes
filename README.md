@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prateekaditya/Leet_codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Prateekaditya/Leet_codes/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Prateekaditya/Leet_codes/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Prateekaditya/Leet_codes/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Prateekaditya/Leet_codes/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Prateekaditya/Leet_codes/tree/master/0141-linked-list-cycle) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prateekaditya/Leet_codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Prateekaditya/Leet_codes/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Prateekaditya/Leet_codes/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/Prateekaditya/Leet_codes/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Prateekaditya/Leet_codes/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Prateekaditya/Leet_codes/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Prateekaditya/Leet_codes/tree/master/0234-palindrome-linked-list) |
