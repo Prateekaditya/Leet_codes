@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prateekaditya/Leet_codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Prateekaditya/Leet_codes/tree/master/2479-meeting-rooms-iii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Prateekaditya/Leet_codes/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/Prateekaditya/Leet_codes/tree/master/2965-find-missing-and-repeated-values) |
 | [3194-find-words-containing-character](https://github.com/Prateekaditya/Leet_codes/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Prateekaditya/Leet_codes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Prateekaditya/Leet_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Prateekaditya/Leet_codes/tree/master/2481-strictly-palindromic-number) |
 | [2556-convert-the-temperature](https://github.com/Prateekaditya/Leet_codes/tree/master/2556-convert-the-temperature) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Prateekaditya/Leet_codes/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2965-find-missing-and-repeated-values](https://github.com/Prateekaditya/Leet_codes/tree/master/2965-find-missing-and-repeated-values) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Prateekaditya/Leet_codes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Prateekaditya/Leet_codes/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/Prateekaditya/Leet_codes/tree/master/3462-vowels-game-in-a-string) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prateekaditya/Leet_codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Prateekaditya/Leet_codes/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Prateekaditya/Leet_codes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/Prateekaditya/Leet_codes/tree/master/2965-find-missing-and-repeated-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Prateekaditya/Leet_codes/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Prateekaditya/Leet_codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Prateekaditya/Leet_codes/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0945-snakes-and-ladders](https://github.com/Prateekaditya/Leet_codes/tree/master/0945-snakes-and-ladders) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prateekaditya/Leet_codes/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Prateekaditya/Leet_codes/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
