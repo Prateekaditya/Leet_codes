@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Prateekaditya/Leet_codes/tree/master/1603-running-sum-of-1d-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prateekaditya/Leet_codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Prateekaditya/Leet_codes/tree/master/1646-kth-missing-positive-number) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prateekaditya/Leet_codes/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Prateekaditya/Leet_codes/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1813-maximum-erasure-value](https://github.com/Prateekaditya/Leet_codes/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prateekaditya/Leet_codes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
