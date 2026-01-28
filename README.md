@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Prateekaditya/Leet_codes/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Prateekaditya/Leet_codes/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/Prateekaditya/Leet_codes/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Prateekaditya/Leet_codes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Prateekaditya/Leet_codes/tree/master/0435-non-overlapping-intervals) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prateekaditya/Leet_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Prateekaditya/Leet_codes/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Prateekaditya/Leet_codes/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Prateekaditya/Leet_codes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prateekaditya/Leet_codes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Prateekaditya/Leet_codes/tree/master/0349-intersection-of-two-arrays) |
