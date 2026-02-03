@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Prateekaditya/Leet_codes/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Prateekaditya/Leet_codes/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Prateekaditya/Leet_codes/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prateekaditya/Leet_codes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Prateekaditya/Leet_codes/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Prateekaditya/Leet_codes/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prateekaditya/Leet_codes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0503-next-greater-element-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prateekaditya/Leet_codes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Prateekaditya/Leet_codes/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prateekaditya/Leet_codes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Prateekaditya/Leet_codes/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Prateekaditya/Leet_codes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Prateekaditya/Leet_codes/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
