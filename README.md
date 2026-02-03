@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Prateekaditya/Leet_codes/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Prateekaditya/Leet_codes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prateekaditya/Leet_codes/tree/master/0345-reverse-vowels-of-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Prateekaditya/Leet_codes/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/Prateekaditya/Leet_codes/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Prateekaditya/Leet_codes/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prateekaditya/Leet_codes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Prateekaditya/Leet_codes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Prateekaditya/Leet_codes/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/Prateekaditya/Leet_codes/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prateekaditya/Leet_codes/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Prateekaditya/Leet_codes/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Prateekaditya/Leet_codes/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Prateekaditya/Leet_codes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Prateekaditya/Leet_codes/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Prateekaditya/Leet_codes/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Prateekaditya/Leet_codes/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prateekaditya/Leet_codes/tree/master/0594-longest-harmonious-subsequence) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Prateekaditya/Leet_codes/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Prateekaditya/Leet_codes/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Prateekaditya/Leet_codes/tree/master/1325-path-with-maximum-probability) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Prateekaditya/Leet_codes/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -436,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Prateekaditya/Leet_codes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Prateekaditya/Leet_codes/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Prateekaditya/Leet_codes/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prateekaditya/Leet_codes/tree/master/0594-longest-harmonious-subsequence) |
 | [1364-tuple-with-same-product](https://github.com/Prateekaditya/Leet_codes/tree/master/1364-tuple-with-same-product) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Prateekaditya/Leet_codes/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -616,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Prateekaditya/Leet_codes/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Prateekaditya/Leet_codes/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
